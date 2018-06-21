@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1529397932">
-  <project timestamp="1529397932">
+<coverage generated="1529583070">
+  <project timestamp="1529583070">
     <package name="Tardigrades\Command">
       <file name="/Users/Dion/www/sexy-field/sexy-field/src/Command/ApplicationCommand.php">
         <class name="ApplicationCommand" namespace="Tardigrades\Command">
@@ -1918,7 +1918,7 @@
       </file>
     </package>
     <file name="/Users/Dion/www/sexy-field/sexy-field/src/SectionField/Generator/CommonSectionInterface.php">
-      <metrics loc="24" ncloc="16" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      <metrics loc="25" ncloc="17" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
     </file>
     <package name="Tardigrades\SectionField\Generator">
       <file name="/Users/Dion/www/sexy-field/sexy-field/src/SectionField/Generator/FieldTypeDoesNotExistException.php">
@@ -3758,6 +3758,6 @@
         <metrics loc="248" ncloc="143" classes="1" methods="16" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="38" coveredstatements="0" elements="54" coveredelements="0"/>
       </file>
     </package>
-    <metrics files="147" loc="10026" ncloc="8033" classes="122" methods="603" coveredmethods="559" conditionals="0" coveredconditionals="0" statements="2319" coveredstatements="2151" elements="2922" coveredelements="2710"/>
+    <metrics files="147" loc="10027" ncloc="8034" classes="122" methods="603" coveredmethods="559" conditionals="0" coveredconditionals="0" statements="2319" coveredstatements="2151" elements="2922" coveredelements="2710"/>
   </project>
 </coverage>
